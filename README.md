@@ -1,6 +1,6 @@
-👋 Hi, I’m Kakai. Nice to see you here! Stay a while, you might stumble upon something somewhat cool ✨ 
+👋 Hi, I’m Kakai. Nice to see you here! Stay a while, you might stumble upon something somewhat cool
 
-Here's a little sneak peek :)
+🌱 Here's a little sneak peek 
 
 Calculator App             |  African Gallery Project
 :-------------------------:|:-------------------------:
