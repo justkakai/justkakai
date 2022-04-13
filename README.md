@@ -4,6 +4,6 @@
 
 Calculator App             |  African Gallery Project
 :-------------------------:|:-------------------------:
-![calculatorApp](https://user-images.githubusercontent.com/92310262/163056895-2d0bba52-870f-457c-b91f-81e36d965e2f.png)  |  ![African-Gallery](https://user-images.githubusercontent.com/92310262/163054726-ba76efa8-5302-484f-b12a-1f6b43bd53db.png)
+![calculatorApp](https://user-images.githubusercontent.com/92310262/163056895-2d0bba52-870f-457c-b91f-81e36d965e2f.png)  |  ![africanGallery](https://user-images.githubusercontent.com/92310262/163180834-e058dbc3-6739-404d-b52b-c6420d49e21c.png)
 
 
