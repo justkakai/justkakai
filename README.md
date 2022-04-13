@@ -1,4 +1,4 @@
-👋 Hi, I’m Kakai. Nice to see you here! Stay a while, you might stumble upon something *somewhat* cool
+👋 Hi, I’m Kakai. Nice to see you here! Stay a while, you might stumble upon something *really* cool
 
 🌱 Here's a little sneak peek 
 
