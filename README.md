@@ -1,8 +1,5 @@
-<div align="center">Hi, I’m Kakai. Nice to see you here! Stay a while, you might stumble upon something *really* cool</div>\
-
-
-
-<div align="center">Here's a little sneak peek 👀</div>\ 
+<div align="center">Hi, I’m Kakai. Nice to see you here! Stay a while, you might stumble upon something *really* cool</div><br>
+<div align="center">Here's a little sneak peek 👀</div><br>
 
 Calculator App             |  African Gallery Project
 :-------------------------:|:-------------------------:
