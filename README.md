@@ -1,4 +1,4 @@
-<div align="center">Hi, I’m Kakai. Nice to see you here!</div><br>
+<div align="center">Hey there!</div><br>
 <div align="center">Here's a little sneak peek of what i've been up to 👀</div><br>
 
 Calculator App             |  African Gallery Project
