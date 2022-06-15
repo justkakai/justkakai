@@ -1,5 +1,5 @@
 <div align="center">Hey there!</div><br>
-<div align="center">Here's a little sneak peek of what i've been up to 👀</div><br>
+<div align="center">Here's a little sneak peek of what i've been up to </div><br>
 
 Calculator App             |  African Gallery Project
 :-------------------------:|:-------------------------:
