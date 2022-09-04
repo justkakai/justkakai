@@ -6,20 +6,19 @@ I'm Kakai, a fullstack developer currently living in Berlin and i'm passionate a
 <details>
 <summary>🔧 Technologies & Tools</summary>
 <br />
-<img align="left" alt="HTML5" width="50px" src="./images/html.png" />
-<img align="left" alt="CSS3" width="50px" src="./images/css.png" />
-<img align="left" alt="Sass" width="50px" src="./images/sass.png" />
-<img align="left" alt="JavaScript" width="50px" src="./images/javascript.png" />
-<img align="left" alt="TypeScript" width="50px" src="./images/typescript.png" />
-<img align="left" alt="React" width="50px" src="./images/react.png" />
-<img align="left" alt="Node.js" width="50px" src="./images/nodejs.png" />
-<img align="left" alt="Express" width="50px" src="./images/express.png" />
-<img align="left" alt="MongoDB" width="50px" src="./images/mongodb.png" />
-<img align="left" alt="Git" width="50px" src="./images/git.png" />
-<img align="left" alt="GitHub" width="50px" src="./images/github.png" />
-<img align="left" alt="Terminal" width="50px" src="./images/terminal.png" />
-<img align="left" alt="Visual Studio Code" width="50px" src="./images/vscode.png" />
-<br />
+<img align="left" alt="HTML5" width="45px" src="./images/html.png" />
+<img align="left" alt="CSS3" width="45px" src="./images/css.png" />
+<img align="left" alt="Sass" width="45px" src="./images/sass.png" />
+<img align="left" alt="JavaScript" width="45px" src="./images/javascript.png" />
+<img align="left" alt="TypeScript" width="45px" src="./images/typescript.png" />
+<img align="left" alt="React" width="45px" src="./images/react.png" />
+<img align="left" alt="Node.js" width="45px" src="./images/nodejs.png" />
+<img align="left" alt="Express" width="45px" src="./images/express.png" />
+<img align="left" alt="MongoDB" width="45px" src="./images/mongodb.png" />
+<img align="left" alt="Git" width="45px" src="./images/git.png" />
+<img align="left" alt="GitHub" width="45px" src="./images/github.png" />
+<img align="left" alt="Terminal" width="45px" src="./images/terminal.png" />
+<img align="left" alt="Visual Studio Code" width="45px" src="./images/vscode.png" />
 </details>
 <br />
 <details>
