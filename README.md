@@ -21,6 +21,8 @@ I'm Kakai, a fullstack developer currently living in Berlin and i'm passionate a
 <img align="left" alt="Visual Studio Code" width="45px" src="./images/vscode.png" />
 </details>
 <br />
+<br />
+<br />
 <details>
   <summary>:zap: Github Stats</summary>
   <br />
