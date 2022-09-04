@@ -21,7 +21,6 @@ I'm Kakai, a full stack web developer currently living in Berlin and i'm passion
 <img align="left" alt="Visual Studio Code" width="45px" src="./images/vscode.png" />
 </details>
 <br />
-<br />
 <details>
   <summary>:zap: Github Stats</summary>
   <br />
@@ -45,6 +44,6 @@ I'm Kakai, a full stack web developer currently living in Berlin and i'm passion
 
 ## 📫 Contact
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&height=20px&link=https://www.linkedin.com/in/wapenyik/)](https://www.linkedin.com/in/wapenyik/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wapenyik/)](https://www.linkedin.com/in/wapenyik/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:wapenyik@outlook.com)](mailto:wapenyik@outlook.com)
 
