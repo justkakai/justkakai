@@ -20,7 +20,6 @@ Aside from coding, i'm also very passionate about art 🎨, music (both discover
 <img align="left" alt="Express" width="45px" src="./images/express.png" />
 <img align="left" alt="MongoDB" width="45px" src="./images/mongodb.png" />
 <img align="left" alt="Git" width="45px" src="./images/git.png" />
-<img align="left" alt="GitHub" width="45px" src="./images/github.png" />
 <img align="left" alt="Terminal" width="45px" src="./images/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="45px" src="./images/vscode.png" />
 </details>
