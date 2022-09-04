@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I'm Kakai, a fullstack developer currently living in Berlin and i'm passionate about art, music (both discovery & production), sustainability and intercultural awareness.
+I'm Kakai, a full stack web developer currently living in Berlin and i'm passionate about art, music (both discovery & production), sustainability and intercultural awareness.
 <br />
 
 <details>
@@ -21,8 +21,6 @@ I'm Kakai, a fullstack developer currently living in Berlin and i'm passionate a
 <img align="left" alt="Visual Studio Code" width="45px" src="./images/vscode.png" />
 </details>
 <br />
-<br />
-<br />
 <details>
   <summary>:zap: Github Stats</summary>
   <br />
@@ -41,11 +39,11 @@ I'm Kakai, a fullstack developer currently living in Berlin and i'm passionate a
 
   Calculator App             |  African Gallery Project
 :-------------------------:|:-------------------------:
-![calculatorApp](https://user-images.githubusercontent.com/92310262/163056895-2d0bba52-870f-457c-b91f-81e36d965e2f.png)  |  ![africanGallery](https://user-images.githubusercontent.com/92310262/163180834-e058dbc3-6739-404d-b52b-c6420d49e21c.png)
+![VirtuoSynth](./images/synthApp2.png)  |  ![To-Do App](./images//to-do-app.png)
 </details>
 
 ## 📫 Contact
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wapenyik/)](https://www.linkedin.com/in/wapenyik/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&height=20&link=https://www.linkedin.com/in/wapenyik/)](https://www.linkedin.com/in/wapenyik/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:wapenyik@outlook.com)](mailto:wapenyik@outlook.com)
 
