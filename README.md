@@ -1,6 +1,7 @@
 ## Hi 👋
 
-I'm Kakai, a full stack web developer currently living in Berlin and i'm passionate about art, music (both discovery & production), sustainability and intercultural awareness.
+I'm Kakai Wapenyi, a full stack web developer currently living in Berlin. 
+Aside from coding, i'm also very passionate about art, music (both discovery & production), sustainability and intercultural awareness, and am always looking for opportunities to indulge multiple interests at a go.
 <br />
 
 <details>
