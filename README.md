@@ -46,7 +46,7 @@ Aside from coding, i'm also very passionate about art 🎨, music (both discover
 ![VirtuoSynth](./images/synthApp2.png)  |  ![To-Do App](./images//to-do-app.png)
 </details>
 
-## 📫 Contact
+## 📫 Socials
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wapenyik/)](https://www.linkedin.com/in/wapenyik/)
 
