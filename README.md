@@ -21,6 +21,7 @@ I'm Kakai, a full stack web developer currently living in Berlin and i'm passion
 <img align="left" alt="Visual Studio Code" width="45px" src="./images/vscode.png" />
 </details>
 <br />
+<br />
 <details>
   <summary>:zap: Github Stats</summary>
   <br />
@@ -37,13 +38,13 @@ I'm Kakai, a full stack web developer currently living in Berlin and i'm passion
   <summary>:zap: Sneak Peak of my work</summary>
   <br />
 
-  Calculator App             |  African Gallery Project
+  VirtuoSynth             |  To-Do App
 :-------------------------:|:-------------------------:
 ![VirtuoSynth](./images/synthApp2.png)  |  ![To-Do App](./images//to-do-app.png)
 </details>
 
 ## 📫 Contact
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&height=20&link=https://www.linkedin.com/in/wapenyik/)](https://www.linkedin.com/in/wapenyik/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&height=20px&link=https://www.linkedin.com/in/wapenyik/)](https://www.linkedin.com/in/wapenyik/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:wapenyik@outlook.com)](mailto:wapenyik@outlook.com)
 
