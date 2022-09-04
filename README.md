@@ -49,5 +49,5 @@ Aside from coding, i'm also very passionate about art 🎨, music (both discover
 ## 📫 Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wapenyik/)](https://www.linkedin.com/in/wapenyik/)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:wapenyik@outlook.com)](mailto:wapenyik@outlook.com)
+
 
