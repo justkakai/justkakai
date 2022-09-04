@@ -19,6 +19,7 @@ I'm Kakai, a fullstack developer currently living in Berlin and i'm passionate a
 <img align="left" alt="GitHub" width="50px" src="./images/github.png" />
 <img align="left" alt="Terminal" width="50px" src="./images/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="50px" src="./images/vscode.png" />
+<br />
 </details>
 <br />
 <details>
