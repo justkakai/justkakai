@@ -7,8 +7,8 @@ Aside from coding, i'm also very passionate about art 🎨, music (both discover
 <br />
 <br />
 
-<details>
-<summary>🔧 Technologies & Tools</summary>
+🔧 Technologies & Tools
+<br />
 <br />
 <img align="left" alt="HTML5" width="45px" src="./images/html.png" />
 <img align="left" alt="CSS3" width="45px" src="./images/css.png" />
@@ -23,6 +23,7 @@ Aside from coding, i'm also very passionate about art 🎨, music (both discover
 <img align="left" alt="Terminal" width="45px" src="./images/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="45px" src="./images/vscode.png" />
 </details>
+<br />
 <br />
 <br />
 <details>
