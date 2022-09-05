@@ -24,6 +24,7 @@ Aside from coding, i'm also very passionate about art 🎨, music (both discover
 <img align="left" alt="Visual Studio Code" width="45px" src="./images/vscode.png" />
 </details>
 <br />
+<br />
 <details>
   <summary>:zap: Github Stats</summary>
   <br />
