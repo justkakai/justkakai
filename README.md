@@ -35,7 +35,7 @@ Aside from coding, i'm also very passionate about art 🎨, music (both discover
 <details>
   <summary>:zap: Languages Used</summary>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justkakai&layout=compact&bg_color=ffffff&text_color=333333">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justkakai&layout=compact&bg_color=ffffff&text_color=000000">
 </details>
 <br />
 <details>
